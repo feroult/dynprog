@@ -38,4 +38,9 @@ public class FibonacciTreeTest {
         assertEquals(369101177, nodes(79));
     }
 
+    @Test
+    public void tesLotsLotsOfNodes() {
+        //System.out.println(nodes(10000000));
+    }
+
 }
